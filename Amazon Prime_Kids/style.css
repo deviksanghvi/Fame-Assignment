@@ -1,0 +1,80 @@
+body{
+	background: #222;
+}
+nav{
+	background-color: black;
+}
+.navbar-brand{
+	font-weight: bold;
+	font-size: 25px;
+}
+.nav-link{
+	font-size: 20px;
+	font-weight: bold;
+}
+.dev{
+	
+	margin-left: 20%;
+	margin-right: 20%;
+	padding-bottom: 40px;
+	padding-top: 20px;
+}
+.card-title{
+	text-align: center;
+	font-weight: bold;
+	font-size: 25px;
+}
+.card{
+	margin-left: 13px;
+	margin-right: 13px;
+}
+.bhai{
+	padding-bottom: 20px;
+}
+.fun{
+	text-align: center;
+	font-weight: bold;
+}
+.jumbotron{
+	margin-top: 5%;
+}
+footer{
+	margin-top: 30px;
+	padding-top: 50px;
+	margin-bottom: 30px: 
+	color: white;
+	background-color: yellow;
+}
+.you{
+	color: blue;
+	margin-top: 20px;
+}
+
+.extra-div:hover{
+  box-shadow: 0 0 20px 0 rgba(0,0,0,0.3);
+  transform: translateY(-20px);
+}
+.bt{
+	color: white;
+	background-color: white;
+}
+.navbar-expand-lg .navbar-nav .nav-link 
+{
+	padding-right: 1.5rem;
+    padding-left: .5rem;
+}
+.image-size
+{
+	width: 100%;
+	height: 50%;
+}
+.hover01 figure img {
+	-webkit-transform: scale(1);
+	transform: scale(1);
+	-webkit-transition: .3s ease-in-out;
+	transition: .3s ease-in-out;
+}
+.hover01 figure:hover img {
+	-webkit-transform: scale(1.3);
+	transform: scale(1.3);
+}
